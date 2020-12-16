@@ -1,0 +1,10 @@
+content:
+- Throw an unchecked exception
+- The root of a number
+- Throw a checked exception
+- Days of the week
+- Throw an IOException
+- Out of bounds_
+- Messaging
+- Check whether a number is prime
+- Check if an array is sorted ascending
