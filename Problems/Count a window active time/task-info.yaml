@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.awt.event.WindowAdapter;
+    import java.awt.event.WindowEvent;
+
+    class ActiveTimeCounterWindowAdapter extends WindowAdapter {
+        private long activationCounter = 0; // do not change it
+
+        // override a method
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11407#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 16 Dec 2020 01:02:18 UTC
+record: -1

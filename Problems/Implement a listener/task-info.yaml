@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.awt.event.WindowAdapter;
+    import java.awt.event.WindowEvent;
+
+    class WindowOpeningAdapter extends WindowAdapter {
+        // override an event called after window opening
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11406#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 16 Dec 2020 01:03:52 UTC
+record: -1

@@ -8,3 +8,5 @@ content:
 - Messaging
 - Check whether a number is prime
 - Check if an array is sorted ascending
+- Count a window active time
+- Implement a listener
